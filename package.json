@@ -1,0 +1,17 @@
+{
+  "name": "hosthtml",
+  "version": "1.0.0",
+  "description": "clientapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "shreeram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
